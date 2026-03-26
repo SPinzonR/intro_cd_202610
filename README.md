@@ -14,4 +14,4 @@ Imagen simple
 ![Texto alternativo](IntroCD.jpg)
 
 Imagen desde URL externa
-![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
+![Logo](https://github.com/SPinzonR/intro_cd_202610/blob/main/IntroCD.jpg)
