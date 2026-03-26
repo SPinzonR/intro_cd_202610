@@ -14,4 +14,4 @@ Imagen simple
 ![Texto alternativo](IntroCD.jpg)
 
 Imagen desde URL externa
-![Logo](https://github.com/SPinzonR/README.md/blob/main/IntroCD.jpg)
+![Logo](https://https://github.com/SPinzonR/intro_cd_202610/blob/main/README.md/IntroCD.jpg)
